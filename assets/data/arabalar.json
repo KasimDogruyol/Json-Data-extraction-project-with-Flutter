@@ -1,0 +1,42 @@
+[
+    {
+        "araba_adi": "Mercedes",
+        "ulke" : "Almanya",
+        "kurulus_yili" : "1926",
+        "model" : [
+            {
+                "model_adi" : "A serisi",
+                "fiyat" : 1500000,
+                "benzinli" : true
+            },
+            {
+                "model_adi": "B serisi",
+                "fiyat" : 2000000,
+                "benzinli" : false
+            }
+
+        ]
+        
+        
+    },
+    {
+        "araba_adi": "BMW",
+        "ulke" : "Almanya",
+        "kurulus_yili" : "1928",
+        "model" : [
+            {
+                "model_adi" : "X serisi",
+                "fiyat" : 2500000,
+                "benzinli" : true
+            },
+            {
+                "model_adi": "Z serisi",
+                "fiyat" : 3000000,
+                "benzinli" : false
+            }
+
+        ]
+        
+        
+    }
+]
